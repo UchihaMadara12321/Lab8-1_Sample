@@ -1,26 +1,5 @@
 
-class MyStack<T> {
 
-    public MyStack() {
-    }
-
-    public void push(T item) {
-    }
-
-    public T pop() {
-        return stack.top();
-    }
-
-    // 检查栈是否为空
-    public boolean isEmpty() {
-        return stack.isEmpty();
-    }
-
-    // 返回栈中的元素数量
-    public int size() {
-        return stack.size();
-    }
-}
 
 public class StackExample{
     public static void main(String[] args) {
